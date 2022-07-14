@@ -1,0 +1,23 @@
+{
+  "name": "nvidia-tailwind-css",
+  "version": "1.0.0",
+  "description": "Cloned a homepage by using tailwindcss",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Awais-shams/nvidia-tailwind-css.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Awais-shams/nvidia-tailwind-css/issues"
+  },
+  "homepage": "https://github.com/Awais-shams/nvidia-tailwind-css#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.6"
+  }
+}
