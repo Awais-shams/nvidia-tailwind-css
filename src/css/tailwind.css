@@ -582,6 +582,10 @@ video {
   margin-top: 5rem;
 }
 
+.mt-2 {
+  margin-top: 0.5rem;
+}
+
 .flex {
   display: flex;
 }
@@ -732,6 +736,11 @@ video {
 .px-36 {
   padding-left: 9rem;
   padding-right: 9rem;
+}
+
+.py-10 {
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
 }
 
 .text-center {
